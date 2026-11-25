@@ -17,6 +17,9 @@ src/scripts/generated/
 .idea/
 *.iml
 
+# Local index
+.codegraph/
+
 # Logs
 logs
 *.log
